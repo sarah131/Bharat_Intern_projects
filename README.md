@@ -3,3 +3,5 @@
 Includes:
 => Netflix Clone, Weather website, Portfolio
 
+![netflix-website](/netflix.png)
+
